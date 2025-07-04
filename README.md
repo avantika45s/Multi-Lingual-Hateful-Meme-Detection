@@ -1,6 +1,7 @@
 # Multi-Lingual Hateful Meme Detection
 
-[![Watch Demo Video](Multi-LingualHatefulMemeDetection.gif)](UI.mkv)
+![Watch Demo Video](Mini_sem6/Multi-LingualHatefulMemeDetection.gif)
+
 
 ## Project Overview
 
